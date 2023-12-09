@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --papyrus-100: #ffedd5;
+  --papyrus-200: #fed7aa;
+  --papyrus-300: #fdba74;
+  --brown-700: #a16207;
+  --brown-800: #854d0e;
+  --brown-900: #713f12;
+  --transparent: rgba(0, 0, 0, 0);
+}
+
+html[data-theme="contrast"] {
+  --papyrus-100: #ffffff;
+  --papyrus-200: #dddddd;
+  --papyrus-300: aqua;
+  --brown-700: #000000;
+  --brown-800: red;
+  --brown-900: #000000;
+}
