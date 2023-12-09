@@ -1,4 +1,5 @@
 # ReadAloud
+### By Hajymyrat Geldimuradov
 
 ## Frontend
 
