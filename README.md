@@ -1,4 +1,7 @@
 # ReadAloud
+
+ReadAloud allows for any inputted text to be easily converted into text-to-speech. 
+
 ### By Hajymyrat Geldimuradov
 
 ## Frontend
